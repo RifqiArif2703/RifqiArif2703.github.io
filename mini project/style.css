@@ -1,0 +1,271 @@
+.macbook-air {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.macbook-air .overlap-group-wrapper {
+    background-color: #ffffff;
+    height: 832px;
+    width: 1280px;
+}
+
+.macbook-air .overlap-group {
+    background-color: #fffffffc;
+    height: 832px;
+    position: relative;
+}
+
+.macbook-air .overlap {
+    height: 727px;
+    left: 0;
+    position: absolute;
+    top: 105px;
+    width: 1280px;
+}
+
+.macbook-air .div {
+    height: 727px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1280px;
+}
+
+.macbook-air .intersect {
+    height: 353px;
+    left: 0;
+    position: absolute;
+    top: 374px;
+    width: 1280px;
+}
+
+.macbook-air .hand-drawn-cartoon {
+    height: 386px;
+    left: 349px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 567px;
+}
+
+.macbook-air .rectangle {
+    background-color: #e0fce0;
+    border-radius: 5px;
+    height: 55px;
+    left: 292px;
+    position: absolute;
+    top: 399px;
+    width: 682px;
+}
+
+.macbook-air .search {
+    height: 39px;
+    left: 908px;
+    position: absolute;
+    top: 407px;
+    width: 39px;
+}
+
+.macbook-air .text-wrapper {
+    color: #436e4285;
+    font-family: "Inter-Light", Helvetica;
+    font-size: 25px;
+    font-weight: 300;
+    left: 317px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 410px;
+    white-space: nowrap;
+}
+
+.macbook-air .rectangle-2 {
+    background-color: #c7f0c7;
+    border-radius: 10px;
+    box-shadow: 2px 4px 4px #00000040;
+    height: 89px;
+    left: 292px;
+    position: absolute;
+    top: 512px;
+    width: 92px;
+}
+
+.macbook-air .rectangle-3 {
+    background-color: #518d50;
+    border-radius: 10px;
+    box-shadow: 2px 4px 4px #00000040;
+    height: 89px;
+    left: 484px;
+    position: absolute;
+    top: 512px;
+    width: 92px;
+}
+
+.macbook-air .rectangle-4 {
+    background-color: #c7f0c7;
+    border-radius: 10px;
+    box-shadow: 2px 4px 4px #00000040;
+    height: 89px;
+    left: 678px;
+    position: absolute;
+    top: 512px;
+    width: 92px;
+}
+
+.macbook-air .rectangle-5 {
+    background-color: #c7f0c7;
+    border-radius: 10px;
+    box-shadow: 2px 4px 4px #00000040;
+    height: 89px;
+    left: 882px;
+    position: absolute;
+    top: 512px;
+    width: 92px;
+}
+
+.macbook-air .spinach-vegetables {
+    height: 69px;
+    left: 687px;
+    object-fit: cover;
+    position: absolute;
+    top: 522px;
+    width: 75px;
+}
+
+.macbook-air .img {
+    height: 83px;
+    left: 301px;
+    position: absolute;
+    top: 515px;
+    width: 72px;
+}
+
+.macbook-air .pngtree-medical {
+    height: 68px;
+    left: 495px;
+    object-fit: cover;
+    position: absolute;
+    top: 522px;
+    width: 72px;
+}
+
+.macbook-air .temperature-icon {
+    height: 78px;
+    left: 893px;
+    object-fit: cover;
+    position: absolute;
+    top: 517px;
+    width: 76px;
+}
+
+.macbook-air .text-wrapper-2 {
+    color: #518d50;
+    font-family: "Inter-Thin", Helvetica;
+    font-size: 60px;
+    font-weight: 100;
+    left: 988px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 150px;
+}
+
+.macbook-air .text-wrapper-3 {
+    color: #518d50;
+    font-family: "Inter-Thin", Helvetica;
+    font-size: 60px;
+    font-weight: 100;
+    left: 245px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 150px;
+}
+
+.macbook-air .overlap-2 {
+    height: 66px;
+    left: 1183px;
+    position: absolute;
+    top: 25px;
+    width: 67px;
+}
+
+.macbook-air .ellipse {
+    background-color: #c7f0c7;
+    border-radius: 33.08px/32.61px;
+    height: 65px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    transform: rotate(-0.69deg);
+    width: 66px;
+}
+
+.macbook-air .iconly-bold-profile {
+    height: 44px;
+    left: 13px;
+    position: absolute;
+    top: 12px;
+    width: 37px;
+}
+
+.macbook-air .iconly-bold-category {
+    height: 45px;
+    left: 36px;
+    position: absolute;
+    top: 36px;
+    width: 46px;
+}
+
+.macbook-air .text-wrapper-4 {
+    color: #436e42;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-size: 45px;
+    font-weight: 800;
+    left: 122px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-shadow: 0px 5px 5px #00000040;
+    top: 30px;
+    white-space: nowrap;
+}
+
+.macbook-air .iconly-light-chat {
+    height: 30px;
+    left: 1016px;
+    position: absolute;
+    top: 46px;
+    width: 35px;
+}
+
+.macbook-air .ellipse-wrapper {
+    background-image: url(./iconly-light-notification@2x.png);
+    background-size: 100% 100%;
+    height: 36px;
+    left: 1096px;
+    position: absolute;
+    top: 46px;
+    width: 30px;
+}
+
+.macbook-air .ellipse-2 {
+    background-color: #ff0000;
+    border-radius: 3.5px;
+    height: 7px;
+    left: 20px;
+    position: relative;
+    top: 1px;
+    width: 7px;
+}
+
+.macbook-air .iconly-light-bag {
+    height: 32px;
+    left: 937px;
+    position: absolute;
+    top: 44px;
+    width: 33px;
+}
